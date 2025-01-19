@@ -13,14 +13,14 @@
 │   │   ├── trans_dict.model
 │   │   ├── word_dict_2.model
 │   │   └── word_dict.model
-│   ├── ngram
-│   │   ├── build_vocab.py
-│   │   ├── evaluate.py
-│   │   ├── forward_cut.py
-│   │   ├── load_data.py
-│   │   ├── max_prob_cut.py
-│   │   ├── train.py
-│   │   └── visualization.py
-│   └── README.md
+│   └── ngram
+│       ├── build_vocab.py
+│       ├── evaluate.py
+│       ├── forward_cut.py
+│       ├── load_data.py
+│       ├── max_prob_cut.py
+│       ├── train.py
+│       └── visualization.py
+├── README.md
 └── 分词原理和实践.pdf
 ```
